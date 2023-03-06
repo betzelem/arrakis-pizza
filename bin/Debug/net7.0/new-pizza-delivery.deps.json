@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "new-pizza-delivery/1.0.0": {
+        "runtime": {
+          "new-pizza-delivery.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "new-pizza-delivery/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
