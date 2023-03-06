@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets/images/arrakis.png"
     },
     {
+      "Id": "/Users/user/git/new-pizza-delivery/wwwroot/images/duncan.png",
+      "PackagePath": "staticwebassets/images/duncan.png"
+    },
+    {
       "Id": "/Users/user/git/new-pizza-delivery/wwwroot/js/site.js",
       "PackagePath": "staticwebassets/js/site.js"
     },
